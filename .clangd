@@ -1,0 +1,9 @@
+CompileFlags:
+  Add: 
+    - -Ilib/glad/include
+    - -Ilib/glfw/include
+    - -Ilib/glm
+    - -Ilib/imgui
+    - -Ilib/imgui/backends
+    - -std=c11
+    - -fbracket-depth=1024
